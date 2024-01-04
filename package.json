@@ -4,7 +4,7 @@
   "description": "A end to end chatting app.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server/app.js",
+    "start": "npm start",
     "build":"npm i"
   },
   "author": "vikki",
